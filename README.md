@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Snoopdoig001
+- 👋 Hi, I’m Craig @Snoopdoig001
 - 👀 I’m interested in endocrinology and nutrient control of cellular metabolism
 - 🌱 I’m currently learning to code bioinformatics
 - 💞️ I’m looking to collaborate on anything that helps me learn
-- 📫 How to reach me craig.doig@ntu.ac.uk
+- 📫 How to reach me doig950@gmail.com
 
 <!---
 Snoopdoig001/Snoopdoig001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
